@@ -1,8 +1,8 @@
 Wordpress 6.4 - WooCommerce 8.6
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unzip the archive.
+Then follow the attached instructions.
 
-Разрабатывался на версии CMS Wordpress 6.4.3 - WooCommerce 8.6.1
+The plugin was developed on the version CMS Wordpress 6.4.3 - WooCommerce 8.6.1
